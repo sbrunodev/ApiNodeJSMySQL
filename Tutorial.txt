@@ -1,0 +1,12 @@
+Criar uma pasta para os arquivos do projetos ...
+Caso ocorra erro de package.json
+é só executar o comando npm init, dentro da pasta.
+
+Adicionando o express
+npm install express --save
+
+instalar o npm install nodemon -g
+ao inves de executar o servidor como node index.js, usar agora nodemon index.js, dessa forma ao realizar alteração no seu arquivo não terá mais que parar o service e rodar novamente.
+
+npm install --save sequelize 
+npm install --save mysql2
